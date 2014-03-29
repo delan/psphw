@@ -1,0 +1,7 @@
+$ ./homework
+[0001] mean:                      550.600000
+[0001] sample standard deviation: 572.026845
+[0002] mean:                      60.320000
+[0002] sample standard deviation: 62.255831
+[0003] mean:                      50.000000
+[0003] sample standard deviation: 27.386128

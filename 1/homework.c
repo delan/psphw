@@ -66,12 +66,9 @@ double		psp_sample_stdev(psp_list list);
 
 /**
  * @brief Runs tests on the homework code.
- * This function is only defined when the TEST preprocessor macro is defined.
  */
 
-#ifdef TEST
 int		main(void);
-#endif
 
 psp_list	psp_list_new(void) {
 	psp_list list = malloc(sizeof(struct psp_list));

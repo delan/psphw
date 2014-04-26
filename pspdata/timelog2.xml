@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time path="/Non Project/PSP0.1&#10;/Non Project/Homework 2 (PSP0.1)" flag="R" />
+  <time path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1&#10;/Non Project/Homework 1 (PSP0)" flag="R" />
+  <time path="/Non Project/new&#10;/Non Project/Student Profile" flag="R" />
+  <time path="/Non Project/Homework 2 (PSP0.1)&#10;/Non Project/PSP Fundamentals &amp; Advanced/Homework 2 (PSP0.1)" flag="R" />
+  <time path="/Non Project/PSP Fundamentals &amp; Advanced/Homework 2 (PSP0.1)&#10;/Non Project/Homework 2 (PSP0.1)" flag="R" />
+  <time path="/Non Project/PSP Fundamentals &amp; Advanced/Student Profile&#10;/Non Project/Student Profile/Student Profile" flag="R" />
+  <time path="/Non Project/PSP Fundamentals &amp; Advanced&#10;/Non Project/Student Profile" flag="R" />
+  <time id="8" start="@1397910886000" flag="M" />
+  <time id="14" path="/Non Project/Homework 2 (PSP0.1)/Planning" start="@1397910886000" delta="85" flag="A" />
+  <time id="9" start="@1397915999000" flag="M" />
+  <time id="15" path="/Non Project/Homework 2 (PSP0.1)/Design" start="@1397915999000" delta="17" flag="A" />
+  <time id="10" start="@1397916997000" flag="M" />
+  <time id="16" path="/Non Project/Homework 2 (PSP0.1)/Code" start="@1397916997000" delta="44" flag="A" />
+  <time id="11" start="@1397919647000" flag="M" />
+  <time id="17" path="/Non Project/Homework 2 (PSP0.1)/Compile" start="@1397919647000" delta="20" flag="A" />
+  <time id="12" start="@1397920856000" flag="M" />
+  <time id="18" path="/Non Project/Homework 2 (PSP0.1)/Test" start="@1397920856000" delta="1" flag="A" />
+  <time id="13" start="@1397920944000" flag="M" />
+  <time id="19" path="/Non Project/Homework 2 (PSP0.1)/Postmortem" start="@1397920944000" delta="62" flag="A" />
+</timeLogEntries>

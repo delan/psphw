@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time id="1" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Planning" start="@1395713384281" delta="8" />
+  <time id="2" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Design" start="@1395713834795" delta="27" />
+  <time id="3" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Code" start="@1395715477150" delta="19" />
+  <time id="4" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Compile" start="@1395716609104" delta="11" />
+  <time id="5" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Test" start="@1395717288696" delta="41" />
+  <time id="6" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Test" start="@1395742743612" delta="14" />
+  <time id="7" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 1/Planning" start="@1395743595843" delta="2" />
+  <time id="8" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Planning" start="@1397910886811" delta="85" />
+  <time id="9" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Design" start="@1397915999104" delta="17" />
+  <time id="10" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Code" start="@1397916997446" delta="44" />
+  <time id="11" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Compile" start="@1397919647087" delta="20" />
+  <time id="12" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Test" start="@1397920856935" delta="1" />
+  <time id="13" path="/Non Project/PSP Fundamentals &amp; Advanced/Program 2/Postmortem" start="@1397920944416" delta="62" />
+</timeLogEntries>

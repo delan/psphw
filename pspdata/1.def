@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Data" inj="Code" rem="Code" ft="0.4" fd="" desc="accidentally left fscanf(...) == 1 instead of fscanf(...) == 2" date="@1397917091949" />
+  <defect num="2" type="Interface" inj="Code" rem="Code" ft="0.4" fd="" desc="didn't return from psp_read as intended" date="@1397917521956" />
+  <defect num="3" type="Function" inj="Code" rem="Code" ft="0.5" fd="" desc="forgot to traverse to next node in psp_correlation(), causing infinite loop" date="@1397918357258" />
+  <defect num="4" type="Interface" inj="Design" rem="Code" ft="0.5" fd="" desc="missing input parameter x in declaration for psp_reg_estimate()" date="@1397918917211" />
+</defectLog>

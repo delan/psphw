@@ -1,0 +1,52 @@
+Process Dashboard - logging started at Sat Apr 26 12:56:22 WST 2014
+Oracle Corporation JRE 1.7.0_55; Windows 7
+Using LocalWorkingDirectory[C:\Users\delan\Documents\p\pdash\pspdata]
+[Ljava.lang.Object;@f08d9e=>PropertyKey<top/Non Project><PSP Fundamentals & Advanced>
+[Ljava.lang.Object;@1cfd851=>PropertyKey<><top>
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\12.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\12.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\1.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\13.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\15.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+[Ljava.lang.Object;@dc580e=>PropertyKey<><top>
+[Ljava.lang.Object;@5f4c51=>PropertyKey<top><Non Project>
+Saved C:\Users\delan\Documents\p\pdash\pspdata\13.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\22.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\11.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\23.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat
+Saved C:\Users\delan\Documents\p\pdash\pspdata\global.dat

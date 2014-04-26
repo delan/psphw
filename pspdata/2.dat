@@ -1,0 +1,65 @@
+#include <pspForEng3/psp1/dataFile.txt>
+= Data for /Non Project/PSP Fundamentals & Advanced/Program 2
+Base_Parts/0/Actual Added=77.0
+Base_Parts/0/Actual Base=85.0
+Base_Parts/0/Actual Deleted=1.0
+Base_Parts/0/Actual Modified=21.0
+Base_Parts/0/Added=80.0
+Base_Parts/0/Base=85.0
+Base_Parts/0/Deleted=40.0
+Base_Parts/0/Description="homework.c
+Base_Parts/0/Modified=5.0
+Base_Parts_List=="0
+Code/Completed=@1397919647070
+Code/Defects Injected==3.0
+Code/Defects Removed==4.0
+Code/Started=@1397916997446
+Code/Time==44.0
+Compile/Completed=@1397920856929
+Compile/Started=@1397919647087
+Compile/Time==20.0
+Conceptual Design Filename="ConceptualDesign.rtf
+Design/Completed=@1397916997436
+Design/Defects Injected==1.0
+Design/Defects Removed==0.0
+Design/Started=@1397915999104
+Design/Time==17.0
+Estimated New & Changed LOC/Beta0=0.0
+Estimated New & Changed LOC/Beta1=1.0
+Estimated New & Changed LOC/Interval Percent="N/A
+Estimated New & Changed LOC/LPI="N/A
+Estimated New & Changed LOC/Probe Method="D
+Estimated New & Changed LOC/R Squared="N/A
+Estimated New & Changed LOC/Range="N/A
+Estimated New & Changed LOC/UPI="N/A
+Estimated New & Changed LOC=85.0
+Estimated Time/Beta0="N/A
+Estimated Time/Beta1="N/A
+Estimated Time/Interval Percent="N/A
+Estimated Time/LPI="N/A
+Estimated Time/Probe Method="D
+Estimated Time/R Squared="N/A
+Estimated Time/Range="N/A
+Estimated Time/UPI="N/A
+Estimated Time=180.0
+New_Objects_List=="0
+PIP Form Filename="ProcessImprovementProposal.rtf
+PROBE_LIST=="/Non Project/PSP Fundamentals & Advanced/Program 1
+PROBE_Last_Run_Value/Estimated Added & Modified Size=85.0
+PROBE_Last_Run_Value/Estimated Proxy Size==85.0
+PROBE_Last_Run_Value/Estimated Time=180.0
+PSP Project Document Directory="C:\\Users\\delan.neptune\\Documents\\GitHub\\psphw\\2
+Planning/Completed=@1397915999085
+Planning/Started=@1397910886811
+Planning/Time==85.0
+Postmortem/Completed=@1397924644885
+Postmortem/Started=@1397920944416
+Postmortem/Time==62.0
+Requirements Document Filename="PSP0.1HomeworkSpec(4).pdf
+Reused_Objects_List=="0
+Started=@1397910886811
+Test Report Filename="TestReport.rtf
+Test/Completed=@1397920944403
+Test/Started=@1397920856935
+Test/Time==1.0
+Total LOC=161.0

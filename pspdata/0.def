@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Design" rem="Design" ft="0.8" fd="" desc="missing semicolon and type name in typedef for struct psp_node" date="@1395715321773" />
+  <defect num="2" type="Build, package" inj="Design" rem="Design" ft="0.6" fd="" desc="missing #include &lt;stdio.h&gt; for FILE* type" date="@1395715377930" />
+  <defect num="3" type="Syntax" inj="Code" rem="Code" ft="0.4" fd="" desc="missing parentheses around multiple token argument to sizeof" date="@1395715592274" />
+  <defect num="4" type="Assignment" inj="Code" rem="Code" ft="0.5" fd="" desc="used NAN instead of data argument in psp_node_new" date="@1395716059971" />
+  <defect num="5" type="Function" inj="Code" rem="Compile" ft="0.6" fd="" desc="missing first FILE* argument to fscanf" date="@1395716618147" />
+  <defect num="6" type="Syntax" inj="Code" rem="Test" ft="0.5" fd="" desc="missing parameter names in function definition for main" date="@1395717290639" />
+  <defect num="7" type="Function" inj="Design" rem="Test" ft="1.5" fd="" desc="unused parameters argc and argv" date="@1395717456439" />
+  <defect num="8" type="Function" inj="Code" rem="Test" ft="0.3" fd="" desc="forgot to return 0 from main" date="@1395717576680" />
+  <defect num="9" type="Function" inj="Code" rem="Test" ft="33.8" fd="" desc="sample standard deviation is always zero, forgot to square summation operands" date="@1395717691328" />
+  <defect num="10" type="Function" inj="Code" rem="Test" ft="1.0" fd="" desc="forgot to supply int argument to printf" date="@1395743121856" />
+</defectLog>

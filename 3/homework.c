@@ -1,6 +1,6 @@
 /**
  * @file homework.c
- * @brief PSP0.1 homework by Delan Azabani (#17065012)
+ * @brief PSP1 homework by Delan Azabani (#17065012)
  */
 
 #include <stdio.h>

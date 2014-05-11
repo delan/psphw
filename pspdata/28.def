@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Interface" inj="Code" rem="Compile" ft="1.5" fd="" desc="homework.c:136:9: error: conflicting types for 'psp_read'" date="@1399811240623" />
+  <defect num="2" type="Function" inj="Code" rem="Test" ft="0.6" fd="" desc="infinite loop when forgetting to traverse node's next pointer" date="@1399811354486" />
+  <defect num="3" type="Function" inj="Design" rem="Test" ft="1.2" fd="" desc="forgot to call psp_ln() in psp_get_range()" date="@1399811587828" />
+  <defect num="4" type="Syntax" inj="Test" rem="Test" ft="0.6" fd="" desc="ISO 9899:1990 forbids mixed declarations and code" date="@1399811661068" />
+</defectLog>

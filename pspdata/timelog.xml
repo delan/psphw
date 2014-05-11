@@ -19,4 +19,12 @@
   <time id="17" path="/Non Project/Homework 2 (PSP0.1)/Compile" start="@1397919647000" delta="20" />
   <time id="18" path="/Non Project/Homework 2 (PSP0.1)/Test" start="@1397920856000" delta="1" />
   <time id="19" path="/Non Project/Homework 2 (PSP0.1)/Postmortem" start="@1397920944000" delta="62" />
+  <time id="20" path="/Non Project/Homework 3 (PSP1)/Planning" start="@1399798505372" delta="138" />
+  <time id="21" path="/Non Project/Homework 3 (PSP1)/Design" start="@1399806778006" delta="2" />
+  <time id="22" path="/Non Project/Homework 3 (PSP1)/Planning" start="@1399806878500" delta="24" />
+  <time id="23" path="/Non Project/Homework 3 (PSP1)/Design" start="@1399808345737" delta="23" />
+  <time id="24" path="/Non Project/Homework 3 (PSP1)/Code" start="@1399809710231" delta="25" />
+  <time id="25" path="/Non Project/Homework 3 (PSP1)/Compile" start="@1399811216310" delta="2" />
+  <time id="26" path="/Non Project/Homework 3 (PSP1)/Test" start="@1399811344547" delta="24" />
+  <time id="27" path="/Non Project/Homework 3 (PSP1)/Postmortem" start="@1399812789259" delta="171" interrupt="1" />
 </timeLogEntries>

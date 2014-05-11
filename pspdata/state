@@ -15,13 +15,21 @@
       <node name="Test"/>
       <node name="Postmortem" selected="true"/>
     </node>
-    <node name="Homework 2 (PSP0.1)" templateID="PSP0.1" dataFile="11.dat" defectLog="9.def" selected="true">
+    <node name="Homework 2 (PSP0.1)" templateID="PSP0.1" dataFile="11.dat" defectLog="9.def">
       <node name="Planning"/>
       <node name="Design"/>
       <node name="Code"/>
       <node name="Compile"/>
       <node name="Test" selected="true"/>
       <node name="Postmortem"/>
+    </node>
+    <node name="Homework 3 (PSP1)" templateID="PSP1" dataFile="33.dat" defectLog="28.def" selected="true">
+      <node name="Planning"/>
+      <node name="Design"/>
+      <node name="Code"/>
+      <node name="Compile"/>
+      <node name="Test"/>
+      <node name="Postmortem" selected="true"/>
     </node>
   </node>
 </node>
